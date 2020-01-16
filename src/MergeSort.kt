@@ -1,5 +1,5 @@
 /******************************************************************************
- *  Purpose: Binary Search of an array of Strings
+ *  Purpose: Merge Sort of an array of Integers
  *
  *  @author: Rakshak
  *  @version:1.0
