@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  Purpose: Binary Search of an array of Strings
+ *
+ *  @author: Rakshak
+ *  @version:1.0
+ *  @since:16-01-2020
+ *
+ ******************************************************************************/
+
 fun main(args: Array<String>) {
     val arr = arrayOf("rak", "rama", "naanu", "c#")
     val x = "rak"

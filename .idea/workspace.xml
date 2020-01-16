@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e3c1d0-1d63-46dc-a2ba-0d5426b7b110" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
