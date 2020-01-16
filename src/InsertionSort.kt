@@ -1,3 +1,12 @@
+/******************************************************************************
+ *  Purpose: Insertion Sort of an array of integers
+ *
+ *  @author: Rakshak
+ *  @version:1.0
+ *  @since:16-01-2020
+ *
+ ******************************************************************************/
+
 fun main(args: Array<String>) { // TODO Auto-generated method stub
     val a = intArrayOf(12, 11, 13, 5, 6)
     val x = InsertionSort()
