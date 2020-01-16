@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e3c1d0-1d63-46dc-a2ba-0d5426b7b110" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/FactorialKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/FactorialKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/HarmonicSumKt.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +32,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.FibonacciKt">
+  <component name="RunManager" selected="Kotlin.BubbleSortKt">
+    <configuration name="BubbleSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="BubbleSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactorialKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="VM_PARAMETERS" />
@@ -85,26 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReplaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="StringReplaceKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.BubbleSortKt" />
         <item itemvalue="Kotlin.FibonacciKt" />
         <item itemvalue="Kotlin.FactorialKt" />
         <item itemvalue="Kotlin.LeapYearKt" />
         <item itemvalue="Kotlin.FlipCoinKt" />
-        <item itemvalue="Kotlin.StringReplaceKt" />
       </list>
     </recent_temporary>
   </component>
@@ -131,28 +131,40 @@
       <option name="presentableId" value="Default" />
       <updated>1579157931315</updated>
     </task>
+    <task id="LOCAL-00001" summary="[rak] program to find out fibonacci series">
+      <created>1579168130007</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579168130011</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[rak] program to find out fibonacci series" />
+    <option name="LAST_COMMIT_MESSAGE" value="[rak] program to find out fibonacci series" />
   </component>
   <component name="WindowStateProjectService">
     <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2" timestamp="1579168128900">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579168128900" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1579168160405">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1579168660604">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579168160405" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1579168160396">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579168660604" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1579168660602">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579168160396" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1579168160395">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579168660602" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1579168660599">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579168160395" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1579168160403">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579168660599" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1579168660603">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579168160403" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579168660603" />
   </component>
 </project>
