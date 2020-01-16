@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="d7e3c1d0-1d63-46dc-a2ba-0d5426b7b110" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearch.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/BinarySearchKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/BinarySearchKt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/BinarySearchOfAString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/BinarySearchOfAString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/META-INF/Algorithms.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +33,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.BinarySearchKt">
+  <component name="RunManager" selected="Kotlin.MergeSortKt">
     <configuration name="BinarySearchKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Algorithms" />
       <option name="VM_PARAMETERS" />
@@ -53,19 +55,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="BubbleSortKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactorialKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Algorithms" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FactorialKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,13 +86,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MergeSortKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Algorithms" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MergeSortKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MergeSortKt" />
         <item itemvalue="Kotlin.BinarySearchKt" />
         <item itemvalue="Kotlin.InsertionSortKt" />
         <item itemvalue="Kotlin.BubbleSortKt" />
         <item itemvalue="Kotlin.FibonacciKt" />
-        <item itemvalue="Kotlin.FactorialKt" />
       </list>
     </recent_temporary>
   </component>
@@ -149,22 +151,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="323" y="27" width="777" height="741" key="CommitChangelistDialog2/67.27.1299.741@67.27.1299.741" timestamp="1579168128900" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1579172060581">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1579173057495">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579172060581" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1579172060580">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1579173057495" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1579173057483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579172060580" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1579172060579">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1579173057483" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1579173057482">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579172060579" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1579172060580">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1579173057482" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1579173057483">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579172060580" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1579173057483" />
     <state width="1253" height="219" key="GridCell.Tab.1.bottom" timestamp="1579171175849">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
